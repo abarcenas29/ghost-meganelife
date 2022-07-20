@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "journal": "https://github.com/TryGhost/Journal.git#main",
-    "ghost": "^5.4.1",
+    "ghost": "4.47.4",
     "ghost-storage-cloudinary": "^2.2.4",
     "mysql2": "2.3.3"
   },
