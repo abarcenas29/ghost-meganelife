@@ -5966,9 +5966,9 @@
   "resolved" "https://registry.npmjs.org/join-component/-/join-component-1.1.0.tgz"
   "version" "1.1.0"
 
-"journal@github:TryGhost/Journal#main":
-  "resolved" "git+ssh://git@github.com/TryGhost/Journal.git#88dd67be857e71c156d7c02f8a455fa56516b186"
-  "version" "1.0.0"
+"journal@https://github.com/TryGhost/Casper.git#main":
+  "resolved" "git+ssh://git@github.com/TryGhost/Casper.git#d386ab090f1e643da987a622d32569266c068a97"
+  "version" "5.2.1"
 
 "js-beautify@^1.13.11":
   "integrity" "sha512-f1ra8PHtOEu/70EBnmiUlV8nJePS58y9qKjl4JHfYWlFH6bo7ogZBz//FAZp7jDuXtYnGYKymZPlrg2I/9Zo4g=="
