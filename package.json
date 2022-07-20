@@ -9,9 +9,7 @@
     "node": "16.X"
   },
   "dependencies": {
-    "casper": "github:TryGhost/Casper#main",
-    "lyra": "github:TryGhost/lyra#main",
-    "journal": "https://github.com/TryGhost/Casper.git#main",
+    "journal": "https://github.com/TryGhost/Journal.git#main",
     "ghost": "^5.4.1",
     "ghost-storage-cloudinary": "^2.2.4",
     "mysql2": "2.3.3"
