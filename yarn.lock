@@ -2651,9 +2651,8 @@
   "version" "0.12.0"
 
 "casper@github:TryGhost/Casper#main":
-  "integrity" "sha512-AijCAcnMtKnnlR1aw2jAUSOqiW0lgvEYHQFKbBuz7fvdd4lTqTlDNgGNo490JIlCO/PpymFRMFF2IBSRJ6yXJA=="
-  "resolved" "https://codeload.github.com/TryGhost/Casper/tar.gz/ff4e4226c0b5ddbe627adbcdbf0a2bb8135fc1cb"
-  "version" "4.7.5"
+  "resolved" "git+ssh://git@github.com/TryGhost/Casper.git#d386ab090f1e643da987a622d32569266c068a97"
+  "version" "5.2.1"
 
 "ccount@^1.0.0":
   "integrity" "sha512-vlNK021QdI7PNeiUh/lKkC/mNHHfV0m/Ad5JoI0TYtlBnJAslM/JIkm/tGC88bkLIwO6OQ5uV6ztS6kVAtCDlg=="
@@ -5967,8 +5966,8 @@
   "resolved" "https://registry.npmjs.org/join-component/-/join-component-1.1.0.tgz"
   "version" "1.1.0"
 
-"journal@github:TryGhost/journal#main":
-  "resolved" "git+ssh://git@github.com/TryGhost/journal.git#88dd67be857e71c156d7c02f8a455fa56516b186"
+"journal@github:TryGhost/Journal#main":
+  "resolved" "git+ssh://git@github.com/TryGhost/Journal.git#88dd67be857e71c156d7c02f8a455fa56516b186"
   "version" "1.0.0"
 
 "js-beautify@^1.13.11":
@@ -6639,8 +6638,7 @@
   "version" "2.5.0"
 
 "lyra@github:TryGhost/lyra#main":
-  "integrity" "sha512-TRoY7grbekS/eJyYCAYWhFou9YAFSl5931qBE0RTsaqE6aqhKt1uA+cnJ3adt57cDT6kqYPWUrWnQf55jruDyA=="
-  "resolved" "https://codeload.github.com/TryGhost/lyra/tar.gz/cfd3dad6179e27ec35b7fe46cf79383a617d9746"
+  "resolved" "git+ssh://git@github.com/TryGhost/lyra.git#4198010b272b6065da781f3c7639c904829d4d99"
   "version" "1.0.0"
 
 "mailgun-js@^0.22.0", "mailgun-js@0.22.0":
