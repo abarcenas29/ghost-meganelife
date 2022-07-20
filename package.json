@@ -12,8 +12,8 @@
     "casper": "github:TryGhost/Casper#main",
     "lyra": "github:TryGhost/lyra#main",
     "journal": "github:TryGhost/journal#main",
-    "ghost": "4.47.4",
-    "ghost-storage-cloudinary": "2.2.1",
+    "ghost": "^5.4.1",
+    "ghost-storage-cloudinary": "^2.2.4",
     "mysql2": "2.3.3"
   },
   "scripts": {
